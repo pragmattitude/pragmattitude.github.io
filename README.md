@@ -1,2 +1,2 @@
 # pragmattitude.github.io
-Public web site
+Public web site with GitHub Pages
